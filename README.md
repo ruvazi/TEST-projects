@@ -2,8 +2,8 @@
 #### - A solution to demonstrate the exercise "UNIT Testing, Testable Code, Mocking and Code Coverage".
 #### By Emil, Rune, Ebbe & Dennis
 
-First of we started by refactoring the code to follo the SOLID principles. So instead of the just following the guide we
-tried to do it without:
+First of we started by refactoring the code to follow the SOLID principles. So instead of the just following the guide we
+tried to do it without.
 
 ## DateFormatter.class
 We started of by refactoring the DateFormatter.java class and implemented a constructor that took the date and simple
